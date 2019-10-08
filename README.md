@@ -7,3 +7,5 @@ Basically, we start with a bunch of well-known artist (taken from a [Wikiart's d
 In our case, we use the *"influence by"* relationship to link the artists.
 
 With the **Influence Artist Graph** it is possible to calculate some metrics (such as centrality, dispersion, etc.) that will be useful to materialize the impact that some artists have over others. 
+
+![Graph-description](https://github.com/ignaciogatti/social_influence_graph/blob/master/images/Images%20description.jpg)
